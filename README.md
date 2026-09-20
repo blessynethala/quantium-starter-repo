@@ -12,7 +12,7 @@ quantium-starter-repo/
 ├── process_data.py      # Cleans and formats raw data into a single output CSV
 ├── app.py                # Dash application - interactive sales visualiser
 ├── test_app.py           # Automated test suite (pytest + Selenium)
-├── requirements.txt      # Python dependencies (if present)
+├── requirements.txt      # Python dependencies
 └── README.md
 
 ## ✅ Tasks Completed
